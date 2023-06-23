@@ -1,0 +1,7 @@
+Get your API from:
+
+https://api.nasa.gov/
+
+Use this URL to get the image of the day:
+
+https://api.nasa.gov/planetary/apod?api_key=DZLOfcZMGFfgSoaiQCzREsjpVatTtpF1UOUQUuyU

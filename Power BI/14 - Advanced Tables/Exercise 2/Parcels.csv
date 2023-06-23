@@ -1,0 +1,955 @@
+﻿RegionName,Parcel Size,WeightGrams,Quantity
+East Anglia,Small,290,1
+East Anglia,Small,290,2
+East Anglia,Small,290,3
+East Anglia,Small,290,4
+East Anglia,Small,290,6
+East Anglia,Small,290,7
+East Anglia,Small,295,1
+East Anglia,Small,340,1
+East Anglia,Small,340,2
+East Anglia,Small,340,3
+East Anglia,Small,340,4
+East Anglia,Small,340,6
+East Anglia,Small,380,1
+East Anglia,Small,380,2
+East Anglia,Small,380,3
+East Anglia,Small,380,4
+East Anglia,Small,380,5
+East Anglia,Small,380,6
+East Anglia,Small,400,1
+East Anglia,Small,400,3
+East Anglia,Small,400,7
+East Anglia,Small,420,1
+East Anglia,Small,420,2
+East Anglia,Small,420,3
+East Anglia,Small,450,1
+East Anglia,Small,450,2
+East Anglia,Medium,520,4
+East Anglia,Medium,550,1
+East Anglia,Medium,550,2
+East Anglia,Medium,550,3
+East Anglia,Medium,550,4
+East Anglia,Medium,550,5
+East Anglia,Medium,550,6
+East Anglia,Medium,550,7
+East Anglia,Medium,560,1
+East Anglia,Medium,560,2
+East Anglia,Medium,560,3
+East Anglia,Medium,560,6
+East Anglia,Medium,670,2
+East Anglia,Medium,775,1
+East Anglia,Medium,775,2
+East Anglia,Medium,850,1
+East Anglia,Medium,850,2
+East Anglia,Medium,850,3
+East Anglia,Medium,850,5
+East Anglia,Medium,850,6
+East Anglia,Medium,890,1
+East Anglia,Medium,890,2
+East Anglia,Medium,890,5
+East Anglia,Large,950,1
+East Anglia,Large,950,2
+East Anglia,Large,950,3
+East Anglia,Large,950,4
+East Anglia,Large,950,5
+East Anglia,Large,950,6
+East Anglia,Large,950,7
+East Anglia,Large,950,8
+East Anglia,Large,990,1
+East Anglia,Large,990,2
+East Anglia,Large,990,3
+East Anglia,Large,990,4
+East Anglia,Large,990,6
+East Anglia,Large,990,7
+East Anglia,Large,990,8
+East Anglia,Large,1200,1
+East Anglia,Large,1200,2
+East Anglia,Large,1200,3
+East Anglia,Large,1200,4
+East Anglia,Large,1200,5
+East Anglia,Large,1350,1
+East Anglia,Large,1350,2
+East Anglia,Large,1350,3
+East Anglia,Large,1350,4
+East Anglia,Large,1350,5
+East Anglia,Large,1350,6
+East Anglia,Large,1350,8
+East Anglia,Large,1450,1
+East Anglia,Large,1450,2
+East Anglia,Large,1450,3
+East Anglia,Large,1450,4
+East Anglia,Large,1450,5
+East Anglia,Large,1450,6
+East Anglia,Large,1450,7
+East Midlands,Small,290,1
+East Midlands,Small,290,2
+East Midlands,Small,290,3
+East Midlands,Small,290,4
+East Midlands,Small,290,5
+East Midlands,Small,290,7
+East Midlands,Small,295,1
+East Midlands,Small,295,6
+East Midlands,Small,340,1
+East Midlands,Small,340,2
+East Midlands,Small,340,3
+East Midlands,Small,340,4
+East Midlands,Small,340,5
+East Midlands,Small,340,6
+East Midlands,Small,340,7
+East Midlands,Small,380,1
+East Midlands,Small,380,2
+East Midlands,Small,380,3
+East Midlands,Small,380,4
+East Midlands,Small,380,5
+East Midlands,Small,380,6
+East Midlands,Small,380,7
+East Midlands,Small,380,8
+East Midlands,Small,400,1
+East Midlands,Small,400,2
+East Midlands,Small,400,3
+East Midlands,Small,400,4
+East Midlands,Small,400,5
+East Midlands,Small,420,1
+East Midlands,Small,420,2
+East Midlands,Small,420,3
+East Midlands,Small,450,1
+East Midlands,Small,450,2
+East Midlands,Medium,550,1
+East Midlands,Medium,550,2
+East Midlands,Medium,550,3
+East Midlands,Medium,550,4
+East Midlands,Medium,550,5
+East Midlands,Medium,550,6
+East Midlands,Medium,550,7
+East Midlands,Medium,550,8
+East Midlands,Medium,560,1
+East Midlands,Medium,560,2
+East Midlands,Medium,560,3
+East Midlands,Medium,560,4
+East Midlands,Medium,560,6
+East Midlands,Medium,775,1
+East Midlands,Medium,775,2
+East Midlands,Medium,775,4
+East Midlands,Medium,850,1
+East Midlands,Medium,850,2
+East Midlands,Medium,850,3
+East Midlands,Medium,850,4
+East Midlands,Medium,850,6
+East Midlands,Medium,890,1
+East Midlands,Medium,890,2
+East Midlands,Medium,890,4
+East Midlands,Large,950,1
+East Midlands,Large,950,2
+East Midlands,Large,950,3
+East Midlands,Large,950,4
+East Midlands,Large,950,5
+East Midlands,Large,950,6
+East Midlands,Large,950,7
+East Midlands,Large,950,8
+East Midlands,Large,990,1
+East Midlands,Large,990,2
+East Midlands,Large,990,3
+East Midlands,Large,990,4
+East Midlands,Large,990,5
+East Midlands,Large,990,6
+East Midlands,Large,990,7
+East Midlands,Large,990,8
+East Midlands,Large,1200,1
+East Midlands,Large,1200,2
+East Midlands,Large,1200,3
+East Midlands,Large,1200,4
+East Midlands,Large,1200,5
+East Midlands,Large,1200,6
+East Midlands,Large,1200,7
+East Midlands,Large,1350,1
+East Midlands,Large,1350,2
+East Midlands,Large,1350,3
+East Midlands,Large,1350,4
+East Midlands,Large,1350,5
+East Midlands,Large,1350,6
+East Midlands,Large,1450,1
+East Midlands,Large,1450,2
+East Midlands,Large,1450,3
+East Midlands,Large,1450,4
+East Midlands,Large,1450,5
+East Midlands,Large,1450,6
+East Midlands,Large,1450,7
+East Midlands,Large,1450,8
+London,Small,290,1
+London,Small,290,2
+London,Small,290,3
+London,Small,290,4
+London,Small,290,5
+London,Small,290,6
+London,Small,290,7
+London,Small,290,8
+London,Small,295,1
+London,Small,340,1
+London,Small,340,2
+London,Small,340,3
+London,Small,340,4
+London,Small,340,5
+London,Small,340,6
+London,Small,340,7
+London,Small,340,8
+London,Small,380,1
+London,Small,380,2
+London,Small,380,3
+London,Small,380,4
+London,Small,380,5
+London,Small,380,6
+London,Small,380,7
+London,Small,400,1
+London,Small,400,2
+London,Small,400,3
+London,Small,400,5
+London,Small,400,6
+London,Small,420,1
+London,Small,420,2
+London,Small,450,1
+London,Small,450,2
+London,Small,450,3
+London,Small,450,4
+London,Small,450,5
+London,Medium,520,1
+London,Medium,550,1
+London,Medium,550,2
+London,Medium,550,3
+London,Medium,550,4
+London,Medium,550,5
+London,Medium,550,6
+London,Medium,550,7
+London,Medium,560,1
+London,Medium,560,2
+London,Medium,560,3
+London,Medium,560,4
+London,Medium,560,5
+London,Medium,560,6
+London,Medium,560,7
+London,Medium,670,2
+London,Medium,670,3
+London,Medium,670,7
+London,Medium,775,1
+London,Medium,775,2
+London,Medium,775,3
+London,Medium,775,4
+London,Medium,850,1
+London,Medium,850,2
+London,Medium,850,3
+London,Medium,850,4
+London,Medium,850,5
+London,Medium,850,6
+London,Medium,890,1
+London,Medium,890,4
+London,Large,950,1
+London,Large,950,2
+London,Large,950,3
+London,Large,950,4
+London,Large,950,5
+London,Large,950,6
+London,Large,950,7
+London,Large,950,8
+London,Large,990,1
+London,Large,990,2
+London,Large,990,3
+London,Large,990,4
+London,Large,990,5
+London,Large,990,6
+London,Large,990,7
+London,Large,990,8
+London,Large,1200,1
+London,Large,1200,2
+London,Large,1200,3
+London,Large,1200,4
+London,Large,1200,5
+London,Large,1200,6
+London,Large,1200,7
+London,Large,1200,8
+London,Large,1350,1
+London,Large,1350,2
+London,Large,1350,3
+London,Large,1350,4
+London,Large,1350,5
+London,Large,1350,6
+London,Large,1350,7
+London,Large,1350,8
+London,Large,1450,1
+London,Large,1450,2
+London,Large,1450,3
+London,Large,1450,4
+London,Large,1450,5
+London,Large,1450,6
+London,Large,1450,7
+London,Large,1450,8
+North,Small,290,1
+North,Small,290,2
+North,Small,290,3
+North,Small,290,4
+North,Small,290,5
+North,Small,295,2
+North,Small,295,3
+North,Small,295,4
+North,Small,340,1
+North,Small,340,2
+North,Small,340,3
+North,Small,340,4
+North,Small,340,5
+North,Small,340,6
+North,Small,340,7
+North,Small,380,1
+North,Small,380,2
+North,Small,380,3
+North,Small,380,4
+North,Small,380,5
+North,Small,380,6
+North,Small,380,7
+North,Small,380,8
+North,Small,400,1
+North,Small,400,2
+North,Small,400,3
+North,Small,400,4
+North,Small,420,1
+North,Small,420,5
+North,Small,420,6
+North,Small,450,2
+North,Small,450,3
+North,Small,450,4
+North,Medium,520,1
+North,Medium,550,1
+North,Medium,550,2
+North,Medium,550,3
+North,Medium,550,4
+North,Medium,550,5
+North,Medium,550,6
+North,Medium,550,7
+North,Medium,560,1
+North,Medium,560,2
+North,Medium,560,3
+North,Medium,560,4
+North,Medium,560,6
+North,Medium,670,1
+North,Medium,670,2
+North,Medium,670,5
+North,Medium,775,1
+North,Medium,775,2
+North,Medium,775,3
+North,Medium,775,6
+North,Medium,850,1
+North,Medium,850,2
+North,Medium,850,3
+North,Medium,850,4
+North,Medium,850,5
+North,Medium,890,1
+North,Medium,890,2
+North,Medium,890,5
+North,Medium,890,6
+North,Large,950,1
+North,Large,950,2
+North,Large,950,3
+North,Large,950,4
+North,Large,950,5
+North,Large,950,6
+North,Large,950,7
+North,Large,950,8
+North,Large,990,1
+North,Large,990,2
+North,Large,990,3
+North,Large,990,4
+North,Large,990,5
+North,Large,990,6
+North,Large,990,7
+North,Large,1200,1
+North,Large,1200,2
+North,Large,1200,3
+North,Large,1200,4
+North,Large,1200,5
+North,Large,1200,6
+North,Large,1200,7
+North,Large,1350,1
+North,Large,1350,2
+North,Large,1350,3
+North,Large,1350,4
+North,Large,1350,5
+North,Large,1350,6
+North,Large,1350,7
+North,Large,1450,1
+North,Large,1450,2
+North,Large,1450,3
+North,Large,1450,4
+North,Large,1450,5
+North,Large,1450,6
+North,Large,1450,7
+North,Large,1450,8
+North West,Small,290,1
+North West,Small,290,2
+North West,Small,290,3
+North West,Small,290,4
+North West,Small,290,5
+North West,Small,290,6
+North West,Small,290,7
+North West,Small,295,1
+North West,Small,295,2
+North West,Small,295,3
+North West,Small,340,1
+North West,Small,340,2
+North West,Small,340,3
+North West,Small,340,4
+North West,Small,340,5
+North West,Small,340,6
+North West,Small,340,7
+North West,Small,340,8
+North West,Small,380,1
+North West,Small,380,2
+North West,Small,380,3
+North West,Small,380,4
+North West,Small,380,5
+North West,Small,380,6
+North West,Small,380,7
+North West,Small,380,8
+North West,Small,400,1
+North West,Small,400,2
+North West,Small,400,3
+North West,Small,400,4
+North West,Small,400,6
+North West,Small,400,7
+North West,Small,420,1
+North West,Small,420,2
+North West,Small,420,5
+North West,Small,450,1
+North West,Small,450,2
+North West,Small,450,3
+North West,Small,450,4
+North West,Medium,520,1
+North West,Medium,520,2
+North West,Medium,520,3
+North West,Medium,520,4
+North West,Medium,520,5
+North West,Medium,520,6
+North West,Medium,550,1
+North West,Medium,550,2
+North West,Medium,550,3
+North West,Medium,550,4
+North West,Medium,550,5
+North West,Medium,550,6
+North West,Medium,550,7
+North West,Medium,560,1
+North West,Medium,560,2
+North West,Medium,560,3
+North West,Medium,560,4
+North West,Medium,560,5
+North West,Medium,560,6
+North West,Medium,560,7
+North West,Medium,670,2
+North West,Medium,670,3
+North West,Medium,775,1
+North West,Medium,775,2
+North West,Medium,775,3
+North West,Medium,775,4
+North West,Medium,775,5
+North West,Medium,775,6
+North West,Medium,775,7
+North West,Medium,850,1
+North West,Medium,850,2
+North West,Medium,850,3
+North West,Medium,850,4
+North West,Medium,850,5
+North West,Medium,850,6
+North West,Medium,850,7
+North West,Medium,850,8
+North West,Medium,890,1
+North West,Medium,890,2
+North West,Medium,890,3
+North West,Medium,890,5
+North West,Large,950,1
+North West,Large,950,2
+North West,Large,950,3
+North West,Large,950,4
+North West,Large,950,5
+North West,Large,950,6
+North West,Large,950,7
+North West,Large,950,8
+North West,Large,990,1
+North West,Large,990,2
+North West,Large,990,3
+North West,Large,990,4
+North West,Large,990,5
+North West,Large,990,6
+North West,Large,990,7
+North West,Large,990,8
+North West,Large,1200,1
+North West,Large,1200,2
+North West,Large,1200,3
+North West,Large,1200,4
+North West,Large,1200,5
+North West,Large,1200,6
+North West,Large,1200,7
+North West,Large,1350,1
+North West,Large,1350,2
+North West,Large,1350,3
+North West,Large,1350,4
+North West,Large,1350,5
+North West,Large,1350,6
+North West,Large,1350,7
+North West,Large,1450,1
+North West,Large,1450,2
+North West,Large,1450,3
+North West,Large,1450,4
+North West,Large,1450,5
+North West,Large,1450,6
+North West,Large,1450,7
+North West,Large,1450,8
+South East,Small,290,1
+South East,Small,290,2
+South East,Small,290,3
+South East,Small,290,4
+South East,Small,290,5
+South East,Small,290,6
+South East,Small,290,7
+South East,Small,290,8
+South East,Small,295,1
+South East,Small,295,2
+South East,Small,295,3
+South East,Small,295,4
+South East,Small,295,5
+South East,Small,295,8
+South East,Small,340,1
+South East,Small,340,2
+South East,Small,340,3
+South East,Small,340,4
+South East,Small,340,5
+South East,Small,340,6
+South East,Small,340,7
+South East,Small,340,8
+South East,Small,380,1
+South East,Small,380,2
+South East,Small,380,3
+South East,Small,380,4
+South East,Small,380,5
+South East,Small,380,6
+South East,Small,380,7
+South East,Small,380,8
+South East,Small,400,1
+South East,Small,400,2
+South East,Small,400,3
+South East,Small,400,4
+South East,Small,400,5
+South East,Small,400,6
+South East,Small,420,1
+South East,Small,420,2
+South East,Small,420,3
+South East,Small,450,1
+South East,Small,450,2
+South East,Small,450,3
+South East,Small,450,4
+South East,Small,450,5
+South East,Small,450,6
+South East,Medium,520,1
+South East,Medium,520,2
+South East,Medium,520,3
+South East,Medium,520,4
+South East,Medium,520,6
+South East,Medium,520,8
+South East,Medium,550,1
+South East,Medium,550,2
+South East,Medium,550,3
+South East,Medium,550,4
+South East,Medium,550,5
+South East,Medium,550,6
+South East,Medium,550,7
+South East,Medium,550,8
+South East,Medium,560,1
+South East,Medium,560,2
+South East,Medium,560,3
+South East,Medium,560,4
+South East,Medium,560,5
+South East,Medium,560,6
+South East,Medium,560,7
+South East,Medium,560,8
+South East,Medium,670,1
+South East,Medium,670,2
+South East,Medium,670,3
+South East,Medium,670,6
+South East,Medium,775,1
+South East,Medium,775,2
+South East,Medium,775,3
+South East,Medium,775,4
+South East,Medium,775,5
+South East,Medium,775,6
+South East,Medium,850,1
+South East,Medium,850,2
+South East,Medium,850,3
+South East,Medium,850,4
+South East,Medium,850,5
+South East,Medium,850,6
+South East,Medium,850,7
+South East,Medium,850,8
+South East,Medium,890,1
+South East,Medium,890,2
+South East,Medium,890,3
+South East,Medium,890,4
+South East,Medium,890,5
+South East,Large,950,1
+South East,Large,950,2
+South East,Large,950,3
+South East,Large,950,4
+South East,Large,950,5
+South East,Large,950,6
+South East,Large,950,7
+South East,Large,950,8
+South East,Large,990,1
+South East,Large,990,2
+South East,Large,990,3
+South East,Large,990,4
+South East,Large,990,5
+South East,Large,990,6
+South East,Large,990,7
+South East,Large,990,8
+South East,Large,1200,1
+South East,Large,1200,2
+South East,Large,1200,3
+South East,Large,1200,4
+South East,Large,1200,5
+South East,Large,1200,6
+South East,Large,1200,8
+South East,Large,1350,1
+South East,Large,1350,2
+South East,Large,1350,3
+South East,Large,1350,4
+South East,Large,1350,5
+South East,Large,1350,6
+South East,Large,1350,7
+South East,Large,1350,8
+South East,Large,1450,1
+South East,Large,1450,2
+South East,Large,1450,3
+South East,Large,1450,4
+South East,Large,1450,5
+South East,Large,1450,6
+South East,Large,1450,7
+South East,Large,1450,8
+South West,Small,290,1
+South West,Small,290,2
+South West,Small,290,3
+South West,Small,290,4
+South West,Small,290,7
+South West,Small,295,1
+South West,Small,295,3
+South West,Small,340,1
+South West,Small,340,2
+South West,Small,340,3
+South West,Small,340,4
+South West,Small,340,5
+South West,Small,340,6
+South West,Small,340,8
+South West,Small,380,1
+South West,Small,380,2
+South West,Small,380,3
+South West,Small,380,4
+South West,Small,380,5
+South West,Small,380,6
+South West,Small,380,8
+South West,Small,400,1
+South West,Small,400,2
+South West,Small,400,3
+South West,Small,420,3
+South West,Small,420,5
+South West,Small,450,1
+South West,Small,450,2
+South West,Small,450,3
+South West,Small,450,5
+South West,Small,450,6
+South West,Medium,520,1
+South West,Medium,520,2
+South West,Medium,520,3
+South West,Medium,550,1
+South West,Medium,550,2
+South West,Medium,550,3
+South West,Medium,550,4
+South West,Medium,550,5
+South West,Medium,550,7
+South West,Medium,550,8
+South West,Medium,560,1
+South West,Medium,560,2
+South West,Medium,560,3
+South West,Medium,560,4
+South West,Medium,560,7
+South West,Medium,670,1
+South West,Medium,670,2
+South West,Medium,775,1
+South West,Medium,775,3
+South West,Medium,775,4
+South West,Medium,775,6
+South West,Medium,775,7
+South West,Medium,850,1
+South West,Medium,850,2
+South West,Medium,850,3
+South West,Medium,850,4
+South West,Medium,850,8
+South West,Medium,890,1
+South West,Medium,890,2
+South West,Medium,890,3
+South West,Large,950,1
+South West,Large,950,2
+South West,Large,950,3
+South West,Large,950,4
+South West,Large,950,5
+South West,Large,950,6
+South West,Large,950,7
+South West,Large,950,8
+South West,Large,990,1
+South West,Large,990,2
+South West,Large,990,3
+South West,Large,990,4
+South West,Large,990,5
+South West,Large,990,6
+South West,Large,990,7
+South West,Large,990,8
+South West,Large,1200,1
+South West,Large,1200,2
+South West,Large,1200,3
+South West,Large,1200,4
+South West,Large,1200,5
+South West,Large,1350,1
+South West,Large,1350,2
+South West,Large,1350,3
+South West,Large,1350,4
+South West,Large,1350,5
+South West,Large,1350,7
+South West,Large,1450,1
+South West,Large,1450,2
+South West,Large,1450,3
+South West,Large,1450,4
+South West,Large,1450,5
+South West,Large,1450,6
+South West,Large,1450,7
+South West,Large,1450,8
+West Midlands,Small,290,1
+West Midlands,Small,290,2
+West Midlands,Small,290,3
+West Midlands,Small,290,4
+West Midlands,Small,290,5
+West Midlands,Small,290,6
+West Midlands,Small,290,7
+West Midlands,Small,295,1
+West Midlands,Small,295,6
+West Midlands,Small,340,1
+West Midlands,Small,340,2
+West Midlands,Small,340,3
+West Midlands,Small,340,4
+West Midlands,Small,340,5
+West Midlands,Small,340,6
+West Midlands,Small,340,7
+West Midlands,Small,380,1
+West Midlands,Small,380,2
+West Midlands,Small,380,3
+West Midlands,Small,380,4
+West Midlands,Small,380,5
+West Midlands,Small,380,6
+West Midlands,Small,380,7
+West Midlands,Small,380,8
+West Midlands,Small,400,1
+West Midlands,Small,400,2
+West Midlands,Small,400,3
+West Midlands,Small,400,4
+West Midlands,Small,400,5
+West Midlands,Small,420,1
+West Midlands,Small,420,2
+West Midlands,Small,450,1
+West Midlands,Small,450,2
+West Midlands,Small,450,3
+West Midlands,Medium,520,1
+West Midlands,Medium,520,2
+West Midlands,Medium,520,3
+West Midlands,Medium,520,4
+West Midlands,Medium,550,1
+West Midlands,Medium,550,2
+West Midlands,Medium,550,3
+West Midlands,Medium,550,4
+West Midlands,Medium,550,5
+West Midlands,Medium,550,6
+West Midlands,Medium,550,7
+West Midlands,Medium,550,8
+West Midlands,Medium,560,1
+West Midlands,Medium,560,2
+West Midlands,Medium,560,3
+West Midlands,Medium,560,4
+West Midlands,Medium,560,5
+West Midlands,Medium,670,1
+West Midlands,Medium,670,2
+West Midlands,Medium,670,6
+West Midlands,Medium,775,1
+West Midlands,Medium,775,2
+West Midlands,Medium,775,3
+West Midlands,Medium,775,4
+West Midlands,Medium,775,5
+West Midlands,Medium,775,6
+West Midlands,Medium,850,1
+West Midlands,Medium,850,2
+West Midlands,Medium,850,3
+West Midlands,Medium,850,4
+West Midlands,Medium,850,5
+West Midlands,Medium,850,6
+West Midlands,Medium,850,7
+West Midlands,Medium,850,8
+West Midlands,Medium,890,1
+West Midlands,Medium,890,2
+West Midlands,Medium,890,3
+West Midlands,Medium,890,4
+West Midlands,Large,950,1
+West Midlands,Large,950,2
+West Midlands,Large,950,3
+West Midlands,Large,950,4
+West Midlands,Large,950,5
+West Midlands,Large,950,6
+West Midlands,Large,950,7
+West Midlands,Large,950,8
+West Midlands,Large,990,1
+West Midlands,Large,990,2
+West Midlands,Large,990,3
+West Midlands,Large,990,4
+West Midlands,Large,990,5
+West Midlands,Large,990,6
+West Midlands,Large,990,7
+West Midlands,Large,990,8
+West Midlands,Large,1200,1
+West Midlands,Large,1200,2
+West Midlands,Large,1200,3
+West Midlands,Large,1200,4
+West Midlands,Large,1200,5
+West Midlands,Large,1200,6
+West Midlands,Large,1200,8
+West Midlands,Large,1350,1
+West Midlands,Large,1350,2
+West Midlands,Large,1350,3
+West Midlands,Large,1350,4
+West Midlands,Large,1350,5
+West Midlands,Large,1350,6
+West Midlands,Large,1350,7
+West Midlands,Large,1350,8
+West Midlands,Large,1450,1
+West Midlands,Large,1450,2
+West Midlands,Large,1450,3
+West Midlands,Large,1450,4
+West Midlands,Large,1450,5
+West Midlands,Large,1450,6
+West Midlands,Large,1450,7
+West Midlands,Large,1450,8
+Yorkshire & Humberside,Small,290,1
+Yorkshire & Humberside,Small,290,2
+Yorkshire & Humberside,Small,290,3
+Yorkshire & Humberside,Small,290,4
+Yorkshire & Humberside,Small,290,5
+Yorkshire & Humberside,Small,290,6
+Yorkshire & Humberside,Small,295,1
+Yorkshire & Humberside,Small,295,2
+Yorkshire & Humberside,Small,295,3
+Yorkshire & Humberside,Small,340,1
+Yorkshire & Humberside,Small,340,2
+Yorkshire & Humberside,Small,340,3
+Yorkshire & Humberside,Small,340,4
+Yorkshire & Humberside,Small,340,5
+Yorkshire & Humberside,Small,340,6
+Yorkshire & Humberside,Small,340,7
+Yorkshire & Humberside,Small,340,8
+Yorkshire & Humberside,Small,380,1
+Yorkshire & Humberside,Small,380,2
+Yorkshire & Humberside,Small,380,3
+Yorkshire & Humberside,Small,380,4
+Yorkshire & Humberside,Small,380,5
+Yorkshire & Humberside,Small,380,6
+Yorkshire & Humberside,Small,380,7
+Yorkshire & Humberside,Small,380,8
+Yorkshire & Humberside,Small,400,1
+Yorkshire & Humberside,Small,400,2
+Yorkshire & Humberside,Small,400,3
+Yorkshire & Humberside,Small,400,4
+Yorkshire & Humberside,Small,400,5
+Yorkshire & Humberside,Small,400,6
+Yorkshire & Humberside,Small,420,2
+Yorkshire & Humberside,Small,420,4
+Yorkshire & Humberside,Small,450,1
+Yorkshire & Humberside,Small,450,2
+Yorkshire & Humberside,Small,450,3
+Yorkshire & Humberside,Small,450,5
+Yorkshire & Humberside,Small,450,6
+Yorkshire & Humberside,Medium,520,1
+Yorkshire & Humberside,Medium,520,2
+Yorkshire & Humberside,Medium,520,6
+Yorkshire & Humberside,Medium,550,1
+Yorkshire & Humberside,Medium,550,2
+Yorkshire & Humberside,Medium,550,3
+Yorkshire & Humberside,Medium,550,4
+Yorkshire & Humberside,Medium,550,5
+Yorkshire & Humberside,Medium,550,6
+Yorkshire & Humberside,Medium,550,7
+Yorkshire & Humberside,Medium,550,8
+Yorkshire & Humberside,Medium,560,1
+Yorkshire & Humberside,Medium,560,2
+Yorkshire & Humberside,Medium,560,3
+Yorkshire & Humberside,Medium,560,4
+Yorkshire & Humberside,Medium,560,5
+Yorkshire & Humberside,Medium,560,6
+Yorkshire & Humberside,Medium,560,8
+Yorkshire & Humberside,Medium,670,1
+Yorkshire & Humberside,Medium,670,2
+Yorkshire & Humberside,Medium,670,3
+Yorkshire & Humberside,Medium,670,4
+Yorkshire & Humberside,Medium,670,5
+Yorkshire & Humberside,Medium,775,1
+Yorkshire & Humberside,Medium,775,2
+Yorkshire & Humberside,Medium,775,3
+Yorkshire & Humberside,Medium,775,4
+Yorkshire & Humberside,Medium,775,5
+Yorkshire & Humberside,Medium,775,6
+Yorkshire & Humberside,Medium,850,1
+Yorkshire & Humberside,Medium,850,2
+Yorkshire & Humberside,Medium,850,3
+Yorkshire & Humberside,Medium,850,4
+Yorkshire & Humberside,Medium,850,5
+Yorkshire & Humberside,Medium,850,6
+Yorkshire & Humberside,Medium,850,7
+Yorkshire & Humberside,Medium,850,8
+Yorkshire & Humberside,Medium,890,1
+Yorkshire & Humberside,Medium,890,2
+Yorkshire & Humberside,Medium,890,3
+Yorkshire & Humberside,Medium,890,6
+Yorkshire & Humberside,Medium,890,8
+Yorkshire & Humberside,Large,950,1
+Yorkshire & Humberside,Large,950,2
+Yorkshire & Humberside,Large,950,3
+Yorkshire & Humberside,Large,950,4
+Yorkshire & Humberside,Large,950,5
+Yorkshire & Humberside,Large,950,6
+Yorkshire & Humberside,Large,950,7
+Yorkshire & Humberside,Large,950,8
+Yorkshire & Humberside,Large,990,1
+Yorkshire & Humberside,Large,990,2
+Yorkshire & Humberside,Large,990,3
+Yorkshire & Humberside,Large,990,4
+Yorkshire & Humberside,Large,990,5
+Yorkshire & Humberside,Large,990,6
+Yorkshire & Humberside,Large,990,7
+Yorkshire & Humberside,Large,990,8
+Yorkshire & Humberside,Large,1200,1
+Yorkshire & Humberside,Large,1200,2
+Yorkshire & Humberside,Large,1200,3
+Yorkshire & Humberside,Large,1200,4
+Yorkshire & Humberside,Large,1200,5
+Yorkshire & Humberside,Large,1200,6
+Yorkshire & Humberside,Large,1200,8
+Yorkshire & Humberside,Large,1350,1
+Yorkshire & Humberside,Large,1350,2
+Yorkshire & Humberside,Large,1350,3
+Yorkshire & Humberside,Large,1350,4
+Yorkshire & Humberside,Large,1350,5
+Yorkshire & Humberside,Large,1350,6
+Yorkshire & Humberside,Large,1350,7
+Yorkshire & Humberside,Large,1450,1
+Yorkshire & Humberside,Large,1450,2
+Yorkshire & Humberside,Large,1450,3
+Yorkshire & Humberside,Large,1450,4
+Yorkshire & Humberside,Large,1450,5
+Yorkshire & Humberside,Large,1450,6
+Yorkshire & Humberside,Large,1450,7
+Yorkshire & Humberside,Large,1450,8

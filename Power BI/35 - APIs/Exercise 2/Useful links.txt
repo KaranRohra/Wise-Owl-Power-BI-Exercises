@@ -1,0 +1,7 @@
+Get more information on API here:
+
+https://data.police.uk/docs/method/crime-street/
+
+Initial API to use:
+
+https://data.police.uk/api/crimes-at-location?date=2022-02&lat=51.51081&lng=-0.13067
