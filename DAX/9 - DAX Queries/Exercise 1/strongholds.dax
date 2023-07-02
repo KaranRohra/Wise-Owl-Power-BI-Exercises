@@ -1,0 +1,14 @@
+﻿/* START QUERY BUILDER */
+
+EVALUATE
+SUMMARIZECOLUMNS (
+    Voting[Region],
+    Voting[Area],
+    Voting[Electorate],
+    Voting[ValidVotes],
+    Voting[Remain],
+    Voting[Leave],
+    KEEPFILTERS ( FILTER ( ALL ( Voting ), Voting[Remain] > 3 * Voting[Leave] ) )
+)
+ORDER BY Voting[Remain] DESC
+/* END QUERY BUILDER */

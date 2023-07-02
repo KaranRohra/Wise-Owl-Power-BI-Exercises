@@ -1,0 +1,9 @@
+﻿EVALUATE
+	SUMMARIZE(
+		Genre,
+		Genre[Genre],
+		"Average run-time", AVERAGE(Films[RunTimeMinutes]),
+		"Total Oscwars won", SUM(Films[OscarWins])
+	)
+	ORDER BY
+		Genre[Genre]
